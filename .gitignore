@@ -1,0 +1,1 @@
+.venv/ pycache/ .ipynb_checkpoints/ data/raw/ data/processed/ models/ .DS_Store
